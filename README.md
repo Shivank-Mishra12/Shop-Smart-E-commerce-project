@@ -1,4 +1,4 @@
-# 🚀 E-commerce Revenue Prediction
+# 🚀 Shop-Smart-E-commerce-project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange)

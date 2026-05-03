@@ -31,10 +31,7 @@ The goal is to build a model that can:
 
   * Logistic Regression
   * KNN
-  * Random Forest
-* Ensemble Learning (Voting Classifier)
-
----
+  * DecisionTreeClassifier
 
 ## 🛠️ Tech Stack
 
@@ -58,13 +55,10 @@ The goal is to build a model that can:
 
 ## 📈 Model Performance
 
-* Accuracy: XX%
-* Precision: XX%
-* Recall: XX%
+Accuracy: 89.3%
+Precision: 81%
+Recall: 76%
 
-*(Update with your actual results)*
-
----
 
 ## 📂 Project Structure
 
@@ -110,8 +104,8 @@ Contributions are welcome! Feel free to fork and improve the project.
 
 ## 📬 Contact
 
-* LinkedIn: (add your link)
-* GitHub: (your profile link)
+* LinkedIn: (https://www.linkedin.com/in/shivank-mishra-1a3a46299/)
+* GitHub: (https://github.com/Shivank-Mishra12)
 
 ---
 
